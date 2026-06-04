@@ -1,0 +1,10 @@
+{
+  "build": {
+    "command": "npm install && npm run build",
+    "output": "dist"
+  },
+  "run": {
+    "command": "",
+    "port": 8080
+  }
+}
